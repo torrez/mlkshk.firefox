@@ -1,0 +1,4 @@
+content   mlkshk                 chrome/content/
+locale    mlkshk   en-US         chrome/locale/en-US/
+
+overlay   chrome://browser/content/browser.xul   chrome://mlkshk/content/overlay.xul
