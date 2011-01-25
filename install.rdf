@@ -4,7 +4,7 @@
     <em:id>hello@mlkshk.com</em:id>
     <em:type>2</em:type>
     <em:name>MLKSHK Image Picker</em:name>
-    <em:version>1.0</em:version>
+    <em:version>1.1</em:version>
     <em:creator>MLKSHK</em:creator>
     <em:homepageURL>http://www.mlkshk.com</em:homepageURL>
 	<em:iconURL>chrome://mlkshk/content/icon.png</em:iconURL>
